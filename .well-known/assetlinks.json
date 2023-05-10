@@ -1,0 +1,29 @@
+[
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.leoo89.tracklog",
+    "sha256_cert_fingerprints":
+    ["47:56:A2:61:EE:75:92:38:AF:6E:D1:6C:D4:F0:2B:AB:96:FC:DC:29:22:A0:06:59:84:71:15:44:74:A3:26:7C"]
+  }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.leoo89.tracklog",
+      "sha256_cert_fingerprints":
+      ["C2:AD:01:5D:34:78:8D:2B:1A:71:55:AE:0B:05:D6:50:FB:5E:A6:96:D2:1D:38:8B:E8:58:FE:F9:2C:62:E3:0F"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.leoo89.tracklog",
+      "sha256_cert_fingerprints":
+      ["AF:D8:65:D9:C4:72:9E:35:9A:A1:B0:83:62:F5:5B:18:1C:97:B2:B9:F6:AD:BF:48:9F:2F:15:69:10:AD:A0:58"]
+    }
+  }
+]
