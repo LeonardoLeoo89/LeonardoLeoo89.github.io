@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.leoo89.tracklog",
+    "sha256_cert_fingerprints":
+    ["47:56:A2:61:EE:75:92:38:AF:6E:D1:6C:D4:F0:2B:AB:96:FC:DC:29:22:A0:06:59:84:71:15:44:74:A3:26:7C"]
+  }
+}]
